@@ -1,2 +1,2 @@
 # severn-mitchell-identity
-severn siegfried mitchells infromation
+severn siegfried mitchells information
